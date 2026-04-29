@@ -195,8 +195,8 @@ download:true
 name:"togashi-kia-ren.png",
 file:"src/togashi-kia-ren.png",
 download:true
-
-}]
+}
+]
 }
 
 ]
