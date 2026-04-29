@@ -192,7 +192,7 @@ file:"src/LORE-TOGASHI.pdf",
 download:true
 },
 {
-name:"TOGASHI-KIA-REN.png",
+name:"togashi-kia-ren.png",
 file:"src/togashi-kia-ren.png",
 download:true
 
