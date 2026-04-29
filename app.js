@@ -193,7 +193,7 @@ download:true
 },
 {
 name:"TOGASHI-KIA-REN.png",
-file:"src/TOGASHI-KIA-REN.png",
+file:"src/togashi-kia-ren.png",
 download:true
 
 }]
